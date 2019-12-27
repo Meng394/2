@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BWofter.Converters.Collections.Generic.DictionaryConverter&lt;TEntity&gt;" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAAAAEAAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Collections\Generic\DictionaryConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Data.DataTableConverter&lt;TEntity&gt;" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAABACAAAEAAAAAIgAA=</HashCode>
+      <FileName>BWofter.Converters\Data\DataTableConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.EqualityComparers.StringCollectionComparer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAABABAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\EqualityComparers\StringCollectionComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.ChangeTypeExpression" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\ChangeTypeExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.DataColumnExpression" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\DataColumnExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.DataExpression" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AsAUACCCEAJAAAAAKAFAEAAAIAAAAEBAAAAgAAQAAIA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\DataExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.DataFieldExpression" Collapsed="true">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\DataFieldExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.DataFieldIsNullExpression" Collapsed="true">
+    <Position X="18.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAgAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\DataFieldIsNullExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.DataTableExpression" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAACAAAAEAAAAAAAAAQAAAQAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\DataTableExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.DataTypeExpression" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\DataTypeExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.ExpressionReducer" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\ExpressionReducer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.IsAssignableFromExpression" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAAAAAACAAAAAAAAAAAAAAAAAAAQAAgAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\IsAssignableFromExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.TryParseExpression" Collapsed="true">
+    <Position X="12" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAABAgAAAAAAAAAAAAAQAAgAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\TryParseExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Expressions.TypeIsAssignExpression" Collapsed="true">
+    <Position X="14.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQCAgAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Expressions\TypeIsAssignExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Extensions.DataColumnCollectionExtensions" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Extensions\DataColumnCollectionExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Extensions.DictionaryStringObjectExtensions" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Extensions\DictionaryStringObjectExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BWofter.Converters.Extensions.IEnumerableKeyValuePairExtensions" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BWofter.Converters\Extensions\IEnumerableKeyValuePairExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Database.DB2DDTekDB" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\DB2DDTekDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Database.MySqlDB" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Database\MySqlDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Database.OracleDB" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAEAAAAAAQAACABAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Database\OracleDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Database.OracleDDTekDB" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAEAAAAAAQAACABAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Database\OracleDDTekDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Database.PostgreSqlDB" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Database\PostgreSqlDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Database.SQLiteDB" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\SQLiteDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Database.SqlServerDB" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\SqlServerDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.DatabaseInfo.DB2DBInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAkAAAAAiBIQAABWQAAAATEgACAAEgAYIAACCAAAEA=</HashCode>
+      <FileName>DatabaseInfo\DB2DBInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MJTop.Data.DatabaseInfo.MySqlDBInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAiBIQAABWQAAAATEgACgAEgAYIAECAAAAEA=</HashCode>
+      <FileName>DatabaseInfo\MySqlDBInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MJTop.Data.DatabaseInfo.OracleDBInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAACAiBISAABWQAAQATEgACAAEgAYIAACAEAAEA=</HashCode>
+      <FileName>DatabaseInfo\OracleDBInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MJTop.Data.DatabaseInfo.PostgreSqlDBInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAjBIQAABWQAAAATMgACAAEgAYIAACCAAAEA=</HashCode>
+      <FileName>DatabaseInfo\PostgreSqlDBInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MJTop.Data.DatabaseInfo.SQLiteDBInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAiBIQAABWQAAAATEgACAAEgAYIAACAAAAEA=</HashCode>
+      <FileName>DatabaseInfo\SQLiteDBInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MJTop.Data.DatabaseInfo.SqlServerDBInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAiBIQAABWQAAAATEgACAAEgAYIAACCAAAEA=</HashCode>
+      <FileName>DatabaseInfo\SqlServerDBInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MJTop.Data.DB" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SATYAuAA0DiABGDwJAGAFIDYMQMIRCARACAAREMgJKI=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MJTop.Data.DBFactory" Collapsed="true">
+    <Position X="28.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DBFactotry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.DBMgr" Collapsed="true">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAIAAgAAAAAAQAAAAAAAAAAgAA=</HashCode>
+      <FileName>DBMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.ColumnInfo" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAApAQABAAAIAADAAAAAAAgAAABA=</HashCode>
+      <FileName>Entity\ColumnInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.TableInfo" Collapsed="true">
+    <Position X="24.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAABAAAAAAAAAAQQAAEA=</HashCode>
+      <FileName>Entity\TableInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.ExcludeColumn" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAEAAAFAAAAAAAAAAAAAAAAABEAAA=</HashCode>
+      <FileName>ExcludeColumn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.ExtData" Collapsed="true">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABAAAAQAAAAAABAAAEAAIAAAAAAAAAiABHABQ=</HashCode>
+      <FileName>Ext.Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.ExtObject" Collapsed="true">
+    <Position X="30" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAAAAAAAAAEAgAAAAEABAAAAAQAAAAAAAQAAAAGAhA=</HashCode>
+      <FileName>Ext.Object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Global" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACIBAABIAAABAEEAAAAAAAAAEQCgAAggICAAgAMBAA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.IgCaseDictionary&lt;TValue&gt;" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAKAAAAgAAAEAAAACAAABAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IgCaseDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.LogUtils" Collapsed="true">
+    <Position X="28.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAACAAAAAAAAIAAIAAAAAAAAAAEAAEA=</HashCode>
+      <FileName>LogUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Log" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAAAAAAIAAQIEAAABBAQAAAAAACAA=</HashCode>
+      <FileName>LogUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Script" Collapsed="true">
+    <Position X="24.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAADAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Script.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Setting" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.StringPlus" Collapsed="true">
+    <Position X="23" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAEAAAARAAAAAAAAyABAAAggAAAAAA=</HashCode>
+      <FileName>StringPlus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.TableTrigger" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAAAAAAEAAABAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>TableTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.Tool" Collapsed="true">
+    <Position X="28.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAEAAAQAAAEAAAAAAEAAAAICAQAAAAAEAQAAA=</HashCode>
+      <FileName>Tool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MJTop.Data.TypeInfo&lt;T&gt;" Collapsed="true">
+    <Position X="30" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAgAQAAAAAABVAAEAAAAAAgAAAAYAEABA=</HashCode>
+      <FileName>TypeInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MJTop.Data.SPI.IDB" Collapsed="true">
+    <Position X="21.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CATIAsAA0DiABCDwBACAAADQEQMARCARAAAARAMgAII=</HashCode>
+      <FileName>SPI\IDB.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MJTop.Data.SPI.IDBInfo" Collapsed="true">
+    <Position X="23" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAAAAAgBIQAABSQAAAATEgACAAEgAYIAACAAAAEA=</HashCode>
+      <FileName>SPI\IDBInfo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MJTop.Data.DBType" Collapsed="true">
+    <Position X="21.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAABAAAAAACAAAAAAEAAAAQAAAAABA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MJTop.Data.PrimaryKeyType" Collapsed="true">
+    <Position X="30" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAEAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MJTop.Data.SaveType" Collapsed="true">
+    <Position X="21.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MJTop.Data.LikeType" Collapsed="true">
+    <Position X="26.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQEAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MJTop.Data.KeyCase" Collapsed="true">
+    <Position X="24.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>IgCaseDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MJTop.Data.LogLevel" Collapsed="true">
+    <Position X="28.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAAAEAAAAA=</HashCode>
+      <FileName>LogUtils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MJTop.Data.Developer" Collapsed="true">
+    <Position X="23" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAAA=</HashCode>
+      <FileName>LogUtils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

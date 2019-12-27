@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DBCHM.AboutBox" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIACAAgAACAgCAUAAACAAAADAAAAEIAAAAAABAAAAAA=</HashCode>
+      <FileName>AboutBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.ConfigUtils" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACARAABAACAAAoAABhEAAAAAAAICAAAAAQA=</HashCode>
+      <FileName>Common\ConfigUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.DBCHMConfig" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAgAACAAABAAAARACAAAAAAAAIAAAgAgAAA=</HashCode>
+      <FileName>Common\DBCHMConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.DBUtils" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Common\DBUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.FormUtils" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAQAAAAACoAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\FormUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.ProgressArg" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Common\ProgressArg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.DBForm" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBJCCCCCAFhAACAiCgAACCAQI0QsBADAAAEAIARA=</HashCode>
+      <FileName>DBForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.FrmProcessing" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAIEACAARBAAACCQAAACCAARABBAACIAIAAgAiA=</HashCode>
+      <FileName>FrmProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.GridFormMgr" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYACACAAACIAQQAQAECAgEACySAAAACAAAAAAAAAAQA=</HashCode>
+      <FileName>GridFormMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.ImportForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAAAACAAABAAEACAkAICAAAEAAAAAAAAAMAAAIA=</HashCode>
+      <FileName>ImportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.MainForm" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhIAwKqRCbiFQBAAmBSEFEAaBXoAQKIxYoBJygF5ASU=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PerformanceChart" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oFSABACACCAwCMMAUQCEKCCAAAAAAIAAAAIIAQBIAII=</HashCode>
+      <FileName>PerformanceChart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PerformanceChartStyle" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUEAAAAAADACQAAAAIAABAAAgAQCAASAQAiCAZEQAAA=</HashCode>
+      <FileName>PerformanceChart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PerformanceChartPen" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAACAAgAAAAAEAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>PerformanceChart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.Program" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAQ=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.CHM.ChmHelp" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAgAAEEAAAAAAEAAAABAAAEgAAQEAAAAgAEA=</HashCode>
+      <FileName>CHM\ChmHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.CHM.StringExt" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>CHM\ChmHtmlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.CHM.ChmHtmlHelper" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>CHM\ChmHtmlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnumExt&lt;TEnum&gt;" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAQAAAAAAAAAIkAAAAAAAA=</HashCode>
+      <FileName>Common\EnumExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogUtils" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAACAAAAAAAAIAAIAAAAAAAAAAEAAEA=</HashCode>
+      <FileName>Common\LogUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Log" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAAAAAAMAAQIAAAABBAQAAAAAACAA=</HashCode>
+      <FileName>Common\LogUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.Common.XmlAnalyze" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIABAAAAECAAAAAAA=</HashCode>
+      <FileName>Common\XmlAnalyze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PDM.PdmModels" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PDM\PdmReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PDM.PdmReader" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAEAEAAAAQAAEAKAAAQAAAAAEAIAAAAAAAEAAAA=</HashCode>
+      <FileName>PDM\PdmReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PdmModels.ColumnInfo" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQABkhEBAIgAgAAwEQgAgREJBAUAAAAEEgAAABCEAQ=</HashCode>
+      <FileName>PdmModels\ColumnInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PdmModels.PdmKey" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAABEgAAAACAAAA4gAgAiQAIAAUAgAAGAAAAQgAAAQ=</HashCode>
+      <FileName>PdmModels\PdmKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PdmModels.PdmModels" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PdmModels\PdmModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.PdmModels.TableInfo" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQABEBEAAAqQAAAyAAgAgQAIAAUAAAAmAAAAAgAgAQ=</HashCode>
+      <FileName>PdmModels\TableInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQCAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DBCHM.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DBCHM.OPType" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAIAEAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DBCHM.ScaleMode" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>PerformanceChart.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DBCHM.RefreshMode" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>PerformanceChart.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LogLevel" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAAAEAAAAA=</HashCode>
+      <FileName>Common\LogUtils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Developer" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAIAAAAAA=</HashCode>
+      <FileName>Common\LogUtils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
